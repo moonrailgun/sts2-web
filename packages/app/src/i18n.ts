@@ -108,7 +108,7 @@ const APP: Record<string, Record<string, string>> = {
   afterReload: { eng: 'Applies the next time the game loads.', zhs: '下次载入游戏时生效。' },
   noStorage: { eng: 'This browser blocks storage: progress lasts until the tab closes.', zhs: '浏览器禁止了本地存储：进度只保留到关闭页面为止。' },
   unofficial: { eng: 'Unofficial fan port, for learning only', zhs: '非官方正版，仅供学习使用' }, // ui/menu.tsx PortLinks
-  shutdownNotice: { eng: 'Due to copyright issues, the game will be taken offline soon. Please manage your game progress accordingly.', zhs: '由于版权问题，游戏本体将会在近期下线。请注意管理自己的游戏进度' },
+  shutdownNotice: { eng: 'Due to copyright issues, the game is expected to go offline around 5:00 AM PDT on Sunday, October 11. Please manage your game progress accordingly.', zhs: '由于版权问题，游戏本体预计于太平洋时间 10 月 11 日（周日）上午 5:00 左右下线。请注意管理自己的游戏进度' },
   // ui/settings.tsx: the port's full unlock
   unlockAll: { eng: 'Unlock Everything', zhs: '全解锁' },
   unlockAllButton: { eng: 'Unlock', zhs: '解锁' },

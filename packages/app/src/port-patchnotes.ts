@@ -1,6 +1,13 @@
 /** Web port updates, newest first. Add both languages here; original game notes remain in assets/patch_notes. */
 export const portPatchNotes: { date: string; eng: string; zhs: string }[] = [
   {
+    date: '2026_10_10',
+    eng: `[gold][b]Main menu[/b][/gold]
+• The offline notice now shows the expected shutdown time: around 5:00 AM PDT on Sunday, October 11.`,
+    zhs: `[gold][b]主菜单[/b][/gold]
+• 下线提示补充预计下线时间：太平洋时间 10 月 11 日（周日）上午 5:00 左右。`,
+  },
+  {
     date: '2026_10_08',
     eng: `[gold][b]Main menu[/b][/gold]
 • Added a prominent notice that the game will be taken offline soon due to copyright issues, reminding players to manage their progress.
